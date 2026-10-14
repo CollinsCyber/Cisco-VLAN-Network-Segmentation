@@ -83,3 +83,8 @@ Tools
 Cisco Packet Tracer
 
 draw.io
+
+
+## Network Topology
+
+![Cisco VLAN Network Topology](Network%20Segmentation%20Topology%20diagram.drawio.png)
